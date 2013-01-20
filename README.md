@@ -1,0 +1,1 @@
+This simple python script will check for weak driver permissions which could lead to privilage escalation on the system. This could be easily done by replacing .sys files or modifying them if we have access to the binaries
