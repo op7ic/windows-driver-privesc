@@ -1,0 +1,29 @@
+This is the kind of output you should get from running this script. Note User permissions which might be leveraged or not.
+
+[+] Dumping info for driver :  C:\Windows\system32\DRIVERS\ZTEusbser6k.sys
+		Driver Path :  C:\Windows\system32\DRIVERS\ZTEusbser6k.sys
+		Description :  ZTE Diagnostic Port
+		Service Type :  Kernel Driver
+		Start Mode :  Manual
+		Desktop Interaction :  False
+		Driver Name :  ZTEusbser6k
+		Driver started : False
+		Current Driver State :  Stopped
+		ErrorControl :  Normal
+			[+] Permissions for file  C:\Windows\system32\DRIVERS\ZTEusbser6k.sys
+				USR  has  R  permission
+				USR  has  W  permission
+				USR  does NOT have  X  permission
+				GRP  has  R  permission
+				GRP  has  W  permission
+				GRP  does NOT have  X  permission
+				OTH  has  R  permission
+				OTH  has  W  permission
+				OTH  does NOT have  X  permission
+			[+] Basic File Information 
+				 Modification time:  12/10/2010 08:45:22 AM
+				 Access time:  04/11/2012 02:42:26 PM
+				 Creation time:  04/11/2012 02:42:26 PM
+				 Owner UID :  0
+				 Owner GID :  0
+				 
